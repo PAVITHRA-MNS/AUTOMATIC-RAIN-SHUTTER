@@ -1,2 +1,2 @@
 # AUTOMATIC-RAIN-SHUTTER
-Automatic rain shutter 
+We have used Rain sensor, Arduino, DC motor for this project.
